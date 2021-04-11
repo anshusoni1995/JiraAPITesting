@@ -6,6 +6,7 @@ public class JiraAPI {
 
     public static void main(String[] args){
 
+        Login.Jiralogin();
         RestAssured.baseURI = "http://localhost:8080";
         given().log().all().header("Content-Type","application/json").header("Cookie","JSESSIONID=049D41B5ADF24CEEAB0111788F575ECA")
                 .body("{\n" +
@@ -23,7 +24,5 @@ public class JiraAPI {
                         "}")
                 .when().post("/rest/api/2/issue")
         .then().log().all().statusCode(201);
-
-
     }
 }
