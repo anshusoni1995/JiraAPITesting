@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="commons-lang3-3.11">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/json-path-4.3.3-dist/json-path-4.3.3-deps/commons-lang3-3.11.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/json-path-4.3.3-dist/json-path-4.3.3-deps/groovy-3.0.7.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/json-path-4.3.3-dist/json-path-4.3.3-deps/groovy-json-3.0.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

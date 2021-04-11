@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="json-schema-validator-4.3.3-javadoc">
+    <CLASSES />
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Downloads/json-schema-validator-4.3.3-dist/docs/json-schema-validator-4.3.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/json-schema-validator-4.3.3-dist/docs/json-schema-validator-4.3.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,30 @@
+<component name="libraryTable">
+  <library name="btf-1.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/json-schema-validator-4.3.3-dist/json-schema-validator-4.3.3-deps/btf-1.3.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/json-schema-validator-4.3.3-dist/json-schema-validator-4.3.3-deps/checker-compat-qual-2.5.5.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/json-schema-validator-4.3.3-dist/json-schema-validator-4.3.3-deps/error_prone_annotations-2.3.4.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/json-schema-validator-4.3.3-dist/json-schema-validator-4.3.3-deps/failureaccess-1.0.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/json-schema-validator-4.3.3-dist/json-schema-validator-4.3.3-deps/guava-28.2-android.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/json-schema-validator-4.3.3-dist/json-schema-validator-4.3.3-deps/hamcrest-2.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/json-schema-validator-4.3.3-dist/json-schema-validator-4.3.3-deps/j2objc-annotations-1.3.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/json-schema-validator-4.3.3-dist/json-schema-validator-4.3.3-deps/jackson-annotations-2.11.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/json-schema-validator-4.3.3-dist/json-schema-validator-4.3.3-deps/jackson-core-2.11.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/json-schema-validator-4.3.3-dist/json-schema-validator-4.3.3-deps/jackson-coreutils-2.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/json-schema-validator-4.3.3-dist/json-schema-validator-4.3.3-deps/jackson-coreutils-equivalence-1.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/json-schema-validator-4.3.3-dist/json-schema-validator-4.3.3-deps/jackson-databind-2.11.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/json-schema-validator-4.3.3-dist/json-schema-validator-4.3.3-deps/joda-time-2.10.5.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/json-schema-validator-4.3.3-dist/json-schema-validator-4.3.3-deps/jopt-simple-5.0.4.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/json-schema-validator-4.3.3-dist/json-schema-validator-4.3.3-deps/json-schema-core-1.2.14.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/json-schema-validator-4.3.3-dist/json-schema-validator-4.3.3-deps/json-schema-validator-2.2.14.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/json-schema-validator-4.3.3-dist/json-schema-validator-4.3.3-deps/jsr305-3.0.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/json-schema-validator-4.3.3-dist/json-schema-validator-4.3.3-deps/libphonenumber-8.11.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/json-schema-validator-4.3.3-dist/json-schema-validator-4.3.3-deps/mailapi-1.6.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/json-schema-validator-4.3.3-dist/json-schema-validator-4.3.3-deps/msg-simple-1.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/json-schema-validator-4.3.3-dist/json-schema-validator-4.3.3-deps/rhino-1.7.7.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/json-schema-validator-4.3.3-dist/json-schema-validator-4.3.3-deps/uri-template-0.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
